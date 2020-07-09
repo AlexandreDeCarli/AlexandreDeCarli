@@ -1,14 +1,16 @@
-### Hi there 👋
+### Alexandre De Carli 🎯
 
-**AlexandreDC/AlexandreDC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Tecnólogo em Análise e Desenvolvimento de Sistemas - UTFPR**
+💎 **Especialista em Gestão de Projetos - UNOESC**
+⏳ Especializando em Gestão, Empreendedorismo e Marketing
+🔜 Certificações em Lean/Six Sigma
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 Sempre em busca da qualidade
+- ⚡ Dev / Project Manager / Product Owner / 🃏
+- 👶 Investidor júnior
+- 💻 C, C++, JS, TS, Java, Kotlin, Delphi, SQL... E o que vier a gente aprende *super fast*💨
+- 🌐 Projeto de portal de conteúdo em: https://cabinetech.com.br/
+
+
+*"Faça o teu melhor, na condição que você tem, enquanto você não tem condições melhores, para fazer melhor ainda!" - Mário Sérgio Cortella*
