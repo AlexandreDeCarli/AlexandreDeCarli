@@ -7,7 +7,7 @@
 
 
 - 🔭 Sempre em busca da qualidade
-- ⚡ Dev / Project Manager / Product Owner / 🃏
+- ⚡ Dev / Project Manager / Product Owner / 🃏 / Cozinheiro / Tocador de Violão / ...
 - 👶 Investidor júnior
 - 💻 C, C++, JS, TS, Java, Kotlin, Delphi, SQL... E o que vier a gente aprende *super fast*💨
 - 🌐 Projeto de portal de conteúdo em: https://cabinetech.com.br/
