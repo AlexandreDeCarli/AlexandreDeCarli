@@ -2,7 +2,7 @@
 
 **🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas - UTFPR**\
 **💎 Especialista em Gestão de Projetos - UNOESC**\
-**💎 Especializando em Gestão, Empreendedorismo e Marketing**\
+**💎 Especialista em Gestão, Empreendedorismo e Marketing**\
 🔜 Certificações em Lean/Six Sigma
 
 
